@@ -1,2 +1,2 @@
 # coding-solution
-Coding Repository 
+Problem solution on the Hackerrank website. 
